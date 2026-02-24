@@ -1,0 +1,3 @@
+[submodule "plugin.video.bacterio"]
+	path = repo/plugin.video.bacterio
+	url = git@github.com:phagevault/plugin.video.bacterio.git
